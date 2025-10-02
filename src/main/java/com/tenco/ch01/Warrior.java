@@ -1,4 +1,4 @@
-package com.tenco;
+package com.tenco.ch01;
 
 public class Warrior implements Character {
 	@Override

@@ -1,4 +1,4 @@
-package com.tenco;
+package com.tenco.ch01;
 
 /**
  * Factory Pattern?
